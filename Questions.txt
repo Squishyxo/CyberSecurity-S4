@@ -1,0 +1,3 @@
+Where do routers stand in cyber and network security among local home networks?
+How safe is it to only rely on routers to secure the network?
+How safe is it to only rely on routers to stay away from hackers?
