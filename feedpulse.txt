@@ -1,0 +1,3 @@
+How to reach local kali/server fro outside network.
+difference between snort and suricata 
+nameserver 8.8.8.8
