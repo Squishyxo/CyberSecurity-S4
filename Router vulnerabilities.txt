@@ -1,0 +1,3 @@
+https://nmap.org/nsedoc/scripts/http-tplink-dir-traversal.html
+https://nmap.org/nsedoc/scripts/http-vuln-wnr1000-creds.html
+https://nmap.org/nsedoc/scripts/http-dlink-backdoor.html
