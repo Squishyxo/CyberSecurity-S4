@@ -1,4 +1,0 @@
-what if i have more than one server - port forwarding
-what is ssh connections
-what i could use for another port than 80
-nameserver 8.8.8.8
